@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitest/config';
 
 export default defineConfig({
-  root: "example_react",
+  root: "example",
   server: {
     port: 3000,
     strictPort: true,
